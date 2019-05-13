@@ -23,7 +23,7 @@ The Poke ball is designed using the sector function provided in the graphics.h l
 
 
 <h2> Expected Outcome</h2><br>
-A nearest possible and realistic animation of the Pokémon being captured by the Poke ball. Thus, implementing the graphics libraries covering the basic and conceptual grounds of Computer Graphics and Multimedia (CGM).<br> 
+A nearest possible and realistic animation of the Pokémon being captured by the Poke ball. Thus, implementing the graphics libraries covering the basic and conceptual grounds of Computer Graphics and Multimedia (CGM).<br> <br>
 
 <img src="Screenshots/3.PNG" width="500" >
 
