@@ -1,6 +1,6 @@
 # Pokemon-Catching-Animation-in-c
 
-<h2>Introduction Idea </h2><br>
+<h2>Introduction Idea </h2>
 The aim of the project is to achieve a nearest possible animation of a cartoon series called Pokémon. In this we are trying to achieve a simple Poke ball (bouncing ball), based on the principles of the show that tries to capture a Pokémon.
 The animation starts with the Poke ball being thrown at the Pokémon and after reaching the Pokémon the poke ball will open and capture it, followed by a big flash.
 The Pokémon will try to capture the Pokémon by bouncing rapidly and when the Pokémon will get captured, it will start slowing down and stop, ending the animation.
