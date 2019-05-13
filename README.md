@@ -1,7 +1,5 @@
 # Pokemon-Catching-Animation-in-c
 
-❮img src="Screenshots/3.png" width="10" ❯
-
 <h2>Introduction Idea </h2><br>
 The aim of the project is to achieve a nearest possible animation of a cartoon series called Pokémon. In this we are trying to achieve a simple Poke ball (bouncing ball), based on the principles of the show that tries to capture a Pokémon.
 The animation starts with the Poke ball being thrown at the Pokémon and after reaching the Pokémon the poke ball will open and capture it, followed by a big flash.
@@ -27,6 +25,7 @@ The Poke ball is designed using the sector function provided in the graphics.h l
 <h2> Expected Outcome</h2><br>
 A nearest possible and realistic animation of the Pokémon being captured by the Poke ball. Thus, implementing the graphics libraries covering the basic and conceptual grounds of Computer Graphics and Multimedia (CGM).<br> 
 
+<img src="Screenshots/3.PNG" width="500" >
 
 <h3> References </h3><br>
 •	YouTube tutorials on bouncing ball in TurboC++.<br>
