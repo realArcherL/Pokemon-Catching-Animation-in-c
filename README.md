@@ -1,7 +1,6 @@
 # Pokemon-Catching-Animation-in-c
 
-❮img src="Screenshots/3.png" width="1"  height="1" ❯
-![](Screenshots/3.PNG)
+❮img src="Screenshots/3.png" width="10" ❯
 
 <h2>Introduction Idea </h2><br>
 The aim of the project is to achieve a nearest possible animation of a cartoon series called Pokémon. In this we are trying to achieve a simple Poke ball (bouncing ball), based on the principles of the show that tries to capture a Pokémon.
