@@ -1,5 +1,8 @@
 # Pokemon-Catching-Animation-in-c
+
+❮img src="Screenshots/3.png" width="1"  height="1" ❯
 ![](Screenshots/3.PNG)
+
 <h2>Introduction Idea </h2><br>
 The aim of the project is to achieve a nearest possible animation of a cartoon series called Pokémon. In this we are trying to achieve a simple Poke ball (bouncing ball), based on the principles of the show that tries to capture a Pokémon.
 The animation starts with the Poke ball being thrown at the Pokémon and after reaching the Pokémon the poke ball will open and capture it, followed by a big flash.
@@ -18,7 +21,9 @@ o	TurboC++ ( IDE 3.0 16-bit) <br>
 o	16-bit environment 
 
 <h2> Methodology </h2><br>
-The Poke ball will be designed by the simple concentric circles (Bresenham’s circle Algorithm) and a simple translational motion to reach the Pokémon. The Pokémon will be a shaped (comprising of circle, squares and all kinds of shapes) character which will have slight animation. Once the Poke ball reaches the Pokémon the ball will split open and engulfs the Pokémon.  
+The Poke ball is designed using the sector function provided in the graphics.h library and three concentric circles, with a simple translational motion to reach the Pokémon. The Pokémon is star shaped (comprising of circle, hardcoded lines) character i.e., Staryu. Once the Poke ball reaches the Pokémon the ball will split open and engulf the Pokémon but if it fails it will break into pieces. 
+<br>This is just a hardcoded animation and game can be built over this by simply calling the methods created for each element (Pokémon, Poke ball, translation and bouncing) in the main file.
+
 
 <h2> Expected Outcome</h2><br>
 A nearest possible and realistic animation of the Pokémon being captured by the Poke ball. Thus, implementing the graphics libraries covering the basic and conceptual grounds of Computer Graphics and Multimedia (CGM).<br> 
